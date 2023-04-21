@@ -17,3 +17,5 @@ PIPESPEED = 2
 PIPEIMG = pygame.image.load('img/pipe.png')
 
 BACKGROUND = pygame.image.load('img/background.png')
+
+Q_NETWORK_MODEL_PATH = "q_network_weights.pth"

@@ -1,3 +1,4 @@
 pygame
 numpy
 autopep8
+torch
